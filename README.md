@@ -6,7 +6,8 @@
 This application was developed to analyse multi-channel recordings of sEEG data, but can apply to other multi-channel recording modalities. It is focused on the frequency domain analysis, specifically power-bands and wavelet transforms.
 
 How to use demo:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ucS1hMOwhN4/0.jpg)](https://www.youtube.com/watch?v=ucS1hMOwhN4)
+
+[![IMAGE ALT TEXT HERE](print.png)](https://www.youtube.com/watch?v=ucS1hMOwhN4)
 
 For questions, suggestions, and bug reports send an email to domingos.castro@i3s.up.pt
 

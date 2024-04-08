@@ -26,6 +26,8 @@ if allGood
         channels = channels(1:ecg_channel(1)-1);
 else
     
+  warndlg(['Data does not have the expected structure!' newline 'If loading fails, update the function "functions\Load_Mat_Seiz.m"'])  
+    
   % Data does not have the expected structure!
   c = struct2cell(s);
   
