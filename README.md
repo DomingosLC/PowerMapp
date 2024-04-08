@@ -4,6 +4,7 @@
 
 
 PowerMapp was developed to analyse multi-channel recordings of sEEG data, but can apply to other multi-channel recording modalities. It is focused on the frequency domain analysis, specifically power-bands and wavelet transforms.
+Developed in Matlab
 
 How to use demo:
 
