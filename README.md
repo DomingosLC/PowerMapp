@@ -1,5 +1,4 @@
 # PowerMapp
-
 ## App to analyse sEEG data
 
 
